@@ -2,8 +2,6 @@ package com.lms.book;
 
 import java.util.Date;
 
-import com.lms.dataType.BookFormat;
-
 public class BookItem extends Book{
 	
 	private String barcode;

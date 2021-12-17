@@ -1,4 +1,4 @@
-package com.lms.dataType;
+package com.lms.book;
 
 public enum BookFormat {
 		HARDCOVER,

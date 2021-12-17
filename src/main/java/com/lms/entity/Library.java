@@ -1,7 +1,5 @@
 package com.lms.entity;
 
-import com.lms.dataType.Address;
-
 public class Library {
 	private String name;
 	private Address address;

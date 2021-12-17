@@ -1,4 +1,4 @@
-package com.lms.dataType;
+package com.lms.entity;
 
 public class Address {
 	private String streetAddress;
