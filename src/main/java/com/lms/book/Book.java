@@ -1,4 +1,4 @@
-package com.lms.entity;
+package com.lms.book;
 
 public class Book {
 	private String ISBN;
